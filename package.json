@@ -1,0 +1,7 @@
+{
+  "name": "global-drug-submission",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
